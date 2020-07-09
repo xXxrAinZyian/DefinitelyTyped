@@ -1,0 +1,3 @@
+git clone https://github.com/microsoft/terminal.git
+cd terminal
+git submodule update --init --recursive
